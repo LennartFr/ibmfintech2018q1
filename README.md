@@ -33,3 +33,4 @@ IBM Fintech workshop
 
 # Workshop
 [Predictive Market Stress Testing](https://predictive-market-stress-testing.mybluemix.net/)
+Uses Investment Portfolio API, Simulated Instrument Analytics API, Predictive Market API
