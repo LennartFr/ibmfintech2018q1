@@ -32,4 +32,4 @@ IBM Fintech workshop
 
 
 # Workshop
-[https://predictive-market-stress-testing.mybluemix.net/](https://predictive-market-stress-testing.mybluemix.net/)
+[Predictive Market Stress Testing](https://predictive-market-stress-testing.mybluemix.net/)
