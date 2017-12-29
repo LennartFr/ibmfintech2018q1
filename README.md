@@ -7,7 +7,7 @@ IBM Fintech workshop
 
 ## [IBM experimental fintech services in the IBM Cloud](https://console.bluemix.net/catalog/labs/?category=finance)
 
-## IBM Fintech Developer Journeys
+## [IBM Fintech Developer Journeys](https://developer.ibm.com/code/industries/finance/)
 
 1. [Aggregate and onboard investment holdings using Quovo Aggregation API, IBM Data Science Experience, and the Bluemix Investment Portfolio](https://developer.ibm.com/code/patterns/integrate-a-financial-investment-portfolio/)
 
