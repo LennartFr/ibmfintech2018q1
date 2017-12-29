@@ -8,6 +8,7 @@
 1. 2/28 FinTech @ 425 Market Street 
 1. 3/15 FinTech @ Cloudinary in Santa Clara
 1. 3/22 Blockchain @ Cloudinary in Santa Clara workshop
+1. 4/4  Managing Bitcoin 
 
 IBM Fintech workshop
 
