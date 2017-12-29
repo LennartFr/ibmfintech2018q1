@@ -29,3 +29,7 @@ IBM Fintech workshop
 1. [Construct and rebalance investment portfolios by using the Portfolio Optimization service and data from the Investment Portfolio service](https://developer.ibm.com/code/patterns/construct-a-socially-responsible-investment-portfolio/)
 
 1. [Use Node.js and Watson to detect emotion, identify entities, and discover answers](https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/)
+
+
+# Workshop
+[https://predictive-market-stress-testing.mybluemix.net/](https://predictive-market-stress-testing.mybluemix.net/)
