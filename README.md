@@ -30,7 +30,12 @@ IBM Fintech workshop
 
 1. [Use Node.js and Watson to detect emotion, identify entities, and discover answers](https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/)
 
-
 # Workshop
 [Predictive Market Stress Testing](https://predictive-market-stress-testing.mybluemix.net/)
 Uses Investment Portfolio API, Simulated Instrument Analytics API, Predictive Market API
+
+## Predictive Market + NLG
+Extends Predictive Market Stress Testing by adding NLG and illustrates how to intgrate in a partner service -- Uses 
+1. Investment Portfolio API, 
+1. Simulated Instrument Analytics API, 
+1. Predictive Market API + Arria NLG API
