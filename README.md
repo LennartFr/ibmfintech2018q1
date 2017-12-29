@@ -2,7 +2,12 @@
 
 ## Events
 
+1. 1/25 Blockchain @ 425 Market Street
+1. 2/20 - 2/22 Index @ San Francisco
 1. [Index – San Francisco 2018 2/20-22](https://developer.ibm.com/event/index-san-francisco-2018/)
+1. 2/28 FinTech @ 425 Market Street 
+1. 3/15 FinTech @ Cloudinary in Santa Clara
+1. 3/22 Blockchain @ Cloudinary in Santa Clara workshop
 
 IBM Fintech workshop
 
